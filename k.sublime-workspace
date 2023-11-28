@@ -1,0 +1,209 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Install Package",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/anish/OneDrive/Desktop/SentimentAnalysisProject/sentiment_analysis.py",
+		"/C/Users/anish/AppData/Local/Temp/e1dc22e3-9126-4727-bfd7-a276ba7ba119_icd_final.zip.119/icd/manage.py",
+		"/C/Users/anish/OneDrive/Desktop/icdprototype/icd/manage.py",
+		"/C/Users/anish/OneDrive/Desktop/icdprototype/icd/icd/asgi.py",
+		"/C/Users/anish/OneDrive/Desktop/icdprototype/icd/icd/wsgi.py",
+		"/C/Users/anish/OneDrive/Desktop/icdprototype/icd/icd/views.py",
+		"/C/Users/anish/OneDrive/Desktop/icdprototype/icd/icd/urls.py",
+		"/C/Users/anish/OneDrive/Desktop/icdprototype/icd/icd/settings.py",
+		"/C/Users/anish/AppData/Local/Temp/968f880d-3cf7-441f-9e78-5ffe9b1dd8ac_icd_final.zip.8ac/icd/manage.py",
+		"/C/Users/anish/AppData/Local/Temp/75994e31-b7dd-498b-af5f-ff27b9569daa_icd_final.zip.daa/icd/manage.py",
+		"/C/Users/anish/OneDrive/Desktop/project 1/server.py",
+		"/C/Users/anish/OneDrive/Desktop/icdprototype/icd/db.sqlite3",
+		"/C/Users/anish/OneDrive/Desktop/icdprototype/icd/icd/__init__.py",
+		"/C/Users/anish/Downloads/Forgery/Forgery/Main.py",
+		"/C/Users/anish/OneDrive/Desktop/myenv/app.py",
+		"/C/Users/anish/project/app.py",
+		"/C/Users/anish/OneDrive/Desktop/predict.py",
+		"/C/Users/anish/Downloads/gui (2).py",
+		"/C/Users/anish/OneDrive/Desktop/SourceCode/Detection/Main.py",
+		"/C/Users/anish/OneDrive/Desktop/SourceCode/Detection/__init__.py",
+		"/C/Users/anish/Downloads/gui2.py",
+		"/C/Users/anish/OneDrive/Desktop/SourceCode/Detection/AdminHome.py",
+		"/C/Users/anish/OneDrive/Desktop/SourceCode/Detection/Prediction.py",
+		"/C/Users/anish/OneDrive/Documents/Project/Detection/Main.py",
+		"/C/Users/anish/Downloads/gui (1).py",
+		"/C/Users/anish/OneDrive/Documents/Project/Detection/from PyQt5.QtWidgets import QMainWindow, QApplicat",
+		"/C/Users/anish/Downloads/gui.py",
+		"/C/Users/anish/OneDrive/Documents/Project/Detection/Prediction.py",
+		"/C/Users/anish/OneDrive/Documents/Project/Detection/Training_CNN.py",
+		"/C/Users/anish/OneDrive/Documents/Project/Detection/AdminHome.py",
+		"/C/Users/anish/Music/Forgery/Main.py",
+		"/C/Users/anish/AppData/Local/Microsoft/Windows/INetCache/IE/W5GK089O/predictui[1].ui",
+		"/C/Users/anish/Music/Forgery/Admin.py",
+		"/C/Users/anish/Music/Forgery/HoughTransform.py",
+		"/C/Users/anish/Music/Forgery/AdminHome.py"
+	],
+	"find":
+	{
+		"height": 27.3333333333
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.3333333333
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "k.sublime-project",
+	"replace":
+	{
+		"height": 50.6666666667
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
